@@ -1,0 +1,62 @@
+{
+  "hub_version": "1.0.0_Ultimate",
+  "hardware_target": "Samsung Galaxy S24 Ultra",
+  "headset_target": "Feebz 3D VR 2.0",
+  "global_optimization": {
+    "resolution": "3120x1440 (QHD+)",
+    "refresh_rate": "120Hz",
+    "brightness": "100%",
+    "thermal_mode": "Cover-Off/Active Airflow"
+  },
+  "library": [
+    {
+      "id": "001",
+      "title": "Whispering Eons #0",
+      "category": "Space Adventure",
+      "special_mod": "OLED Deep Black Engine",
+      "control": "S-Pen Action Button"
+    },
+    {
+      "id": "002",
+      "title": "Voxel Fly",
+      "category": "High-Speed Racing",
+      "special_mod": "Low-Latency Gyro Sync",
+      "control": "Head Tilt"
+    },
+    {
+      "id": "003",
+      "title": "VR Space Stalker",
+      "category": "Space Simulator",
+      "special_mod": "110-Degree FOV Expansion",
+      "control": "S-Pen Trigger"
+    },
+    {
+      "id": "004",
+      "title": "BattleGun VR",
+      "category": "FPS Combat",
+      "special_mod": "Grayscale Passthrough Enabled",
+      "control": "S-Pen / Feebz Button"
+    },
+    {
+      "id": "005",
+      "title": "The Lost Future",
+      "category": "Zombie Survival",
+      "special_mod": "High-Contrast HUD",
+      "control": "Feebz Action Button"
+    },
+    {
+      "id": "006",
+      "title": "Relax River VR",
+      "category": "Cinematic",
+      "special_mod": "JLab Spatial Audio Boost",
+      "control": "Passive"
+    },
+    {
+      "id": "007",
+      "title": "VR Roller Coaster Galaxy",
+      "category": "Experience",
+      "special_mod": "Motion Blur Reduction",
+      "control": "Passive"
+    }
+  ]
+}
