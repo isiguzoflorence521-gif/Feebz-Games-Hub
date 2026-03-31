@@ -1,0 +1,5 @@
+<S-PenRemote>
+    <ButtonPress action="CLICK" keycode="66" />
+    <LongPress action="GOTO_HUB" />
+    <DoublePress action="TOGGLE_GRAYSCALE" />
+</S-PenRemote>
