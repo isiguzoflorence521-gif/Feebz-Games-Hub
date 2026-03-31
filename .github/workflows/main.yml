@@ -1,0 +1,11 @@
+name: Notify Phone on Update
+on:
+  push:
+    paths:
+      - 'data/games_list.json'
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Notify Script
+        run: python scripts/notify_phone.py
